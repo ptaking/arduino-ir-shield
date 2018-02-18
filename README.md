@@ -6,6 +6,7 @@ A very simple programmable infrared shield for Arduino
 * Button x8
 * VS1838 IR Sensor x1
 * IR LED x1
+* 10K resistor x8
 * Prototype PCB x1
 
 ### Schematic:
